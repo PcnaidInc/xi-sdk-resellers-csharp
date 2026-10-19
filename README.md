@@ -1,5 +1,9 @@
 # xi.sdk.resellers - the C# library for the XI Sdk Resellers
 
+## CI
+
+The CI workflow (`.github/workflows/ci.yml`) runs `dotnet build` and `dotnet test` on every pull request to `main` and on every push to `main`, using .NET 8.0.
+
 For resellers seeking to innovate with Ingram Micro's API solutions, automate your eCommerce experience with our array of API's and webhooks to craft a seamless journey for your customers.
 
 
