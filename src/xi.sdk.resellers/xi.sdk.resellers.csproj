@@ -31,11 +31,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="System.Web" />
     <None Include="..\..\README.md" Pack="true" PackagePath="" Visible="False" />
-    
-  </ItemGroup>
-  <ItemGroup>
-    <Reference Include="System.Web" />
   </ItemGroup>
 </Project>
